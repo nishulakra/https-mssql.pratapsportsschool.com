@@ -1,2 +1,2 @@
-# https-mssql.pratapsportsschool.com
+# -mssql.pratapsportsschool.com
 jklklfdjiaj
